@@ -11,7 +11,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Step:1. 
 Import the numpy module to use the built-in functions for calculation.
 ## Step:2. 
-Import the sys module to use the built-in functions.
+Import the sys module to use the built-in funtions.
 ## Step:3. 
 Get input from the user for number of rows and add it by 1 for number of columns.
 ## Step:4. 
@@ -58,7 +58,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/Ajith1413/Gaussian/assets/139842524/65458182-b773-47f1-b29b-d6c883424524)
+![Alt text](image.png)
 
 
 
